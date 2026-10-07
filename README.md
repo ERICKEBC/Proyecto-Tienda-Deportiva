@@ -1,2 +1,2 @@
 # Proyecto-Tienda-Deportiva
-Este repositorio es diseñado para la signatura de programación y diseño de aplicaciones
+Mi proyecto consiste en crear una tienda deportiva que ofrezca ropa, tenis, accesorios y equipo para diferentes deportes. Buscamos ofrecer productos de buena calidad a precios accesibles y brindar una buena atención a los clientes.
